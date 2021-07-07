@@ -20,6 +20,7 @@ Report | Slides <br/>
  
 - **Advanced Databased Manangement** (SQL) <br/>
 DynamoDB Project Details: <br/>
+[Paper](https://github.com/maimaiva/academic-projects-msba/blob/main/Advance%20Database%20Management/IDS521_TermPaper.pdf) <br/>
 
 - **Business Data Visualization** <br/>
-[Presentation](https://www.youtube.com/watch?v=tMdUbx2HDLk)
+[Presentation](https://www.youtube.com/watch?v=tMdUbx2HDLk) <br/>
