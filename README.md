@@ -1,21 +1,21 @@
 # academic-projects-msba
-Attached all academic projects that had been done during my graduate school at UIC.  
-- Big Data Analytics (PySpark, AWS)
+Attached all academic projects that had been done during my graduate school at UIC. <br/>
+- Big Data Analytics (PySpark, AWS) <br/>
 Project Details: <br/>
 Presentation | Slides <br/>
 
-- Deep Learning (Python)
+- Deep Learning (Python) <br/>
 <img src="images/DLProjectCover.png" align="center" width="500"> <br/>
 Project Details: <br/>
 Presentation | Slides <br/>
 
-- Data Mining (R)
+- Data Mining (R) <br/>
 Project Details: <br/>
 Report | Slides <br/>
 
-- Machine Learning (R)
+- Machine Learning (R) <br/>
 Project Details: <br/>
 Report | Slides <br/>
-
-- Advanced Databased Manangement(SQL)
+ 
+- Advanced Databased Manangement(SQL) <br/>
 DynamoDB Project Details: <br/>
