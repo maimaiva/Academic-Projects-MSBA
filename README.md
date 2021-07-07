@@ -7,4 +7,4 @@ Attached all academic projects that had been done during my graduate school at U
 - Advanced Databased Manangement(SQL)
 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE]<img src="images/IMG_1983.jpg" align="center" width="350">](https://www.youtube.com/watch?v=Edg5Eg_jdAI&t=21s)
