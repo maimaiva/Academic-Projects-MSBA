@@ -6,5 +6,5 @@ Attached all academic projects that had been done during my graduate school at U
 - Machine Learning (R)
 - Advanced Databased Manangement(SQL)
 
+<img src="academic-projects-msba/images/DL_ProjectCover.png" align="center" width="350">
 
-[![<img src="images/IMG_1983.jpg" align="center" width="350">]](https://www.youtube.com/watch?v=Edg5Eg_jdAI&t=21s)
