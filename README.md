@@ -1,8 +1,9 @@
 # academic-projects-msba
 Attached all academic projects that had been done during my graduate school at UIC. <br/>
 - **Big Data Analytics** (PySpark, AWS) <br/>
+<img src="images/BigProjectCover.png" align="center" width="500"> <br/>
 Project Details: <br/>
-Presentation | Slides <br/>
+Slides <br/>
 
 - **Deep Learning** (Python) <br/>
 <img src="images/DLProjectCover.png" align="center" width="500"> <br/>
