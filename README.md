@@ -12,7 +12,7 @@ Slides <br/>
 <img src="images/DLProjectCover.png" align="center" width="500"> <br/>
 <br/>
 Project Details: <br/>
-Presentation | Slides | [Presentation](https://www.youtube.com/watch?v=Edg5Eg_jdAI&t=3s) <br/>
+Presentation | Slides | [Presentation](https://www.youtube.com/watch?v=Edg5Eg_jdAI&t=3s)
 
 - **Data Mining** (R) <br/>
 Project Details: <br/>
