@@ -1,4 +1,4 @@
-# academic-projects-msba
+# Academic Projects MSBA
 Attached all academic projects that had been done during my graduate school at UIC. <br/>
 
 
