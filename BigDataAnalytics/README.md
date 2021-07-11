@@ -1,6 +1,6 @@
 ## **Big Data Analytics Homework Assignment and Projects**
 
-:hearts: Class Milestone: Manipulating the data using "PySpark" syntax because it is easy-to-use APIs for operating on large datasets. 
+:hearts: Class Milestone: Manipulating the data using "PySpark" syntax due to easily operated on large datasets. 
 
 ### Projects
 
