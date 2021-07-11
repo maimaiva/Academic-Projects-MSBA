@@ -5,6 +5,7 @@
 ### Projects
 
 :dart: Twitter Sentiment Analysis <br/>
+
 _Project Methodology_
 1. Retrieved data from Twitter API 
 2. Performed the sentiment analysis using TextBlob and Vador 
