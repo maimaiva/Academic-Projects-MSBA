@@ -1,10 +1,10 @@
-**Big Data Analytics Homework Assignment and Projects**
+## **Big Data Analytics Homework Assignment and Projects**
 
 :hearts: Class Milestone: Manipulating the data using "PySpark" syntax because it is easy-to-use APIs for operating on large datasets. 
 
 ### Projects
 
-:dart: Twitter Sentiment Analysis
+:dart: Twitter Sentiment Analysis <br/>
 _Project Methodology_
 1. Retrieved data from Twitter API 
 2. Performed the sentiment analysis using TextBlob and Vador 
