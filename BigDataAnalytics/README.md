@@ -7,7 +7,7 @@
 :dart: Twitter Sentiment Analysis <br/>
 
 <br/>
-<img src="DLProjectCover.png" align="center" width="350"> <br/>
+<img src="BigProjectCover.png" align="center" width="350"> <br/>
 <br/>
 
 _Project Methodology_
