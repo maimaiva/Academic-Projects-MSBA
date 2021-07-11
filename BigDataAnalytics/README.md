@@ -8,7 +8,7 @@
 <br/>
 <img src="BigProjectCover.png" align="center" width="350"> <br/>
 <br/>
-[Presentation Click](https://github.com/maimaiva/Academic-Projects-MSBA/blob/main/BigDataAnalytics/IDS561ProjectPresentationpdf.pdf)
+[Project Presentation PDF](https://github.com/maimaiva/Academic-Projects-MSBA/blob/main/BigDataAnalytics/IDS561ProjectPresentationpdf.pdf)
 
 _Project Methodology_
 1. Retrieved data from Twitter API 
