@@ -14,6 +14,7 @@ _Project Methodology_
 <br/>
 <img src="BigProjectCover.png" align="center" width="350"> <br/>
 <br/>
+
 [Project Presentation PDF](https://github.com/maimaiva/Academic-Projects-MSBA/blob/main/BigDataAnalytics/IDS561ProjectPresentationpdf.pdf)
 
 
