@@ -5,15 +5,16 @@
 ### Projects
 
 :dart: Twitter Sentiment Analysis <br/>
-<br/>
-<img src="BigProjectCover.png" align="center" width="350"> <br/>
-<br/>
-[Project Presentation PDF](https://github.com/maimaiva/Academic-Projects-MSBA/blob/main/BigDataAnalytics/IDS561ProjectPresentationpdf.pdf)
 
 _Project Methodology_
 1. Retrieved data from Twitter API 
 2. Performed the sentiment analysis using TextBlob and Vador 
 3. Deploy the project on EC2 (AWS platform)
+
+<br/>
+<img src="BigProjectCover.png" align="center" width="350"> <br/>
+<br/>
+[Project Presentation PDF](https://github.com/maimaiva/Academic-Projects-MSBA/blob/main/BigDataAnalytics/IDS561ProjectPresentationpdf.pdf)
 
 
 ### Homework Assignment 
