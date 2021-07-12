@@ -1,7 +1,17 @@
-### Advance Database Management 
+## **Advance Database Management Homework Assignment and Projects**
 
-In class SQL Challange
+:hearts: Milestone: Understand database concepts and able to query data from database using SQL
 
+### :dart: Projects : Amazon's DynamoDB and its ecosystem <br/>
+
+_Objective_
+
+_Summary_
+
+
+### :dart: Classroom SQL Challange:  <br/>
+
+Simple Query
 ```
 /* Question 3*/
 SELECT Customer_name 
@@ -25,7 +35,7 @@ WHERE Customer_ID IN
 ```
 
 
-EXCEPT statement 
+EXCEPT Statement 
 ```
 /*Question 4*/
 SELECT C.Customer_Name
@@ -56,6 +66,7 @@ O.Order_Date BETWEEN '1/1/2011' and '12/31/2011'
 GROUP BY Customer_Name
 ORDER BY Total_Purchases Desc;
 ```
+
 ```
 /*Question 6*/
 SELECT R.Material_ID, R.Material_Description, V.Vendor_ID, V.Vendor_name, S.Unit_Price
