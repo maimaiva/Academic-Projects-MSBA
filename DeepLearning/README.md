@@ -2,7 +2,7 @@
 
 :hearts: Milestone: Deeply understanding how Neural Network works 
 
-### :dart: Projects :  <br/>
+### :dart: Projects : Realistic Text Structure Production <br/>
 
 _Objective_
 
