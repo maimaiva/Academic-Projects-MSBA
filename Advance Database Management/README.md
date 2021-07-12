@@ -67,6 +67,7 @@ GROUP BY Customer_Name
 ORDER BY Total_Purchases Desc;
 ```
 
+Perform Joining
 ```
 /*Question 6*/
 SELECT R.Material_ID, R.Material_Description, V.Vendor_ID, V.Vendor_name, S.Unit_Price
@@ -82,6 +83,7 @@ WHERE S.Unit_Price IN
 Order By R.Material_ID, S.Unit_Price
 ```
 
+Perforrm Joining with Except
 ```
 /*Question 7*/	
 SELECT PH.PatientID, P.Name, PH.HccCode
