@@ -15,12 +15,12 @@ Objective:
 - Understand Regularlization concepts (Penalize) to avoid Overfitting and fine-tune model hyperparameters in models.
 - Able to compare and select the best model for Loan Status Prediction and Actual Return Rate.
 
-### Assignment 3 Soap Market Analysis
+### Assignment 3 Soap Market Analysis (Unsupervised)
 Objective: 
 - Perform clustering using K-mean, DBSCAN, Kernel-K-Mean.
 - Understand customers characteristics and propose market acquisition strategy.
 
-### Assignment 4 Yelp Sentiment Analysis
+### Assignment 4 Yelp Sentiment Analysis (NLP)
 Objective: 
 - Able to perform EAD, Data Cleasing, Visualization 
 - Perform sentiment analysis using available dictionary namely AFFIN, BING, and NRC. 
