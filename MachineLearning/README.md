@@ -13,6 +13,6 @@ _Methodology_
 3. Evaluate the models and drawn the conclusions
 
 
-Project Final Report >> [Click!](https://github.com/maimaiva/Academic-Projects-MSBA/blob/main/MachineLearning/IDS575FinalProjectReport.pdf)
+Project Final Report >> [Click!](https://github.com/maimaiva/Academic-Projects-MSBA/blob/main/MachineLearning/IDS575FinalProjectReport.pdf) </br>
 Project Final Presentation >> [Click!]()
 
