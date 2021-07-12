@@ -1,6 +1,6 @@
 ## **Data Mining Homework Assignment**
 
-:hearts: Milestone: Understand the data science concepts and applications. :hearts:
+:hearts: Milestone: Understand the data science concepts and applications.
 
 ### Assignment 1 
 
