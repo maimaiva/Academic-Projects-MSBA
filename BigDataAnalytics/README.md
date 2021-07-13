@@ -1,6 +1,6 @@
 ## **Big Data Analytics Homework Assignment and Projects**
 
-:hearts: Class Milestone: Manipulating the data using "PySpark" syntax due to easily operated on large datasets. 
+:hearts: Milestone: Manipulating the data using "PySpark" syntax due to easily operated on large datasets. 
 
 ### :dart: Projects : Twitter Sentiment Analysis <br/>
 
