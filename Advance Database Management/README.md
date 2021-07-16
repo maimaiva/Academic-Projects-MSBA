@@ -4,9 +4,9 @@
 
 ### :dart: Projects : Amazon's DynamoDB and its ecosystem <br/>
 
-_Objective_
-
-_Summary_
+_Objective_ <br/>
+To understand how Amazon's DynamoDB works, comparision of DynamoDB to other relational databases. 
+[Amazon's DynamoDB Term paper](https://github.com/maimaiva/Academic-Projects-MSBA/blob/main/Advance%20Database%20Management/IDS521_TermPaper.pdf)
 
 
 ### :dart: Classroom SQL Challange:  <br/>
